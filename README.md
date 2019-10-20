@@ -90,9 +90,4 @@ ex) git push --set-upstream origin ladder-step1
 
 12. 다음 미션을 해결할 경우 [5단계 브랜치 생성]부터 다시 진행
 
-## 동영상을 통한 코드 리뷰() 를 통해 참고 가능
-
-- [fork하여 코드 리뷰하기](https://www.youtube.com/watch?v=ZSZoaG0PqLg) 
-- [PR 보내고 다시 PR보낼 때 유의 사항](https://www.youtube.com/watch?v=CbLNbCUsh5c&feature=youtu.be)
-
-## 실습 중 모든 질문은 슬랙 채널에서...
+#### README 업데이트
